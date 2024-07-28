@@ -1,5 +1,5 @@
-const summary_data_url = 'https://raw.githubusercontent.com/maxneuvians/etat-status/master/history/summary.json';
-const image_url_base = 'https://raw.githubusercontent.com/maxneuvians/etat-status/master/graphs/';
+const summary_data_url = 'https://raw.githubusercontent.com/niranjan-ramesh/upptime/master/history/summary.json';
+const image_url_base = 'https://raw.githubusercontent.com/niranjan-ramesh/upptime/master/graphs/';
 
 const translations = {
     'en': {
