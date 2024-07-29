@@ -5,25 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "self-serve-portal-poc",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "100.00%",
     "time": 487,
-    "timeDay": 499,
-    "timeWeek": 549,
-    "timeMonth": 522,
+    "timeDay": 0,
+    "timeWeek": 574,
+    "timeMonth": 509,
     "timeYear": 487,
-    "dailyMinutesDown": {
-      "2024-06-25": 30,
-      "2024-06-14": 19,
-      "2024-06-12": 24,
-      "2024-06-11": 156,
-      "2024-06-10": 188,
-      "2024-05-30": 36,
-      "2024-05-29": 27
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Safe Inputs POC",
@@ -31,21 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "safe-inputs-poc",
     "status": "up",
-    "uptime": "99.19%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.73%",
-    "uptimeYear": "99.19%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 529,
-    "timeDay": 400,
-    "timeWeek": 532,
-    "timeMonth": 615,
+    "timeDay": 0,
+    "timeWeek": 580,
+    "timeMonth": 611,
     "timeYear": 529,
-    "dailyMinutesDown": {
-      "2024-07-12": 555,
-      "2024-06-26": 187,
-      "2024-06-24": 24
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HOPIC POC",
@@ -53,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hopic-poc",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "100.00%",
     "time": 716,
-    "timeDay": 585,
-    "timeWeek": 827,
-    "timeMonth": 816,
+    "timeDay": 0,
+    "timeWeek": 873,
+    "timeMonth": 797,
     "timeYear": 716,
-    "dailyMinutesDown": {
-      "2024-06-26": 17
-    }
+    "dailyMinutesDown": {}
   }
 ]
