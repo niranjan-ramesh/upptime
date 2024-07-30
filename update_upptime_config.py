@@ -2,7 +2,7 @@ import os
 import yaml
 
 dns_records_dir = './phac-dns/dns-records'
-upptime_config_path = './.upptime.yml'
+upptime_config_path = './.upptimerc.yml'
 
 def get_domains_from_yaml(directory):
     domains = []
