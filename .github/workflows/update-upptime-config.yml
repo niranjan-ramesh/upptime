@@ -1,0 +1,42 @@
+name: Update Upptime Config
+
+on:
+  push:
+    paths:
+      - '.github/workflows/update-upptime-config.yml'
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-config:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Clone DNS records repository
+        run: |
+          git clone https://github.com/PHACDataHub/phac-dns.git
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Update .upptime.yml
+        run: python update_upptime_config.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .upptime.yml
+          git commit -m 'Update .upptime.yml with new DNS records'
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT || github.token }}
