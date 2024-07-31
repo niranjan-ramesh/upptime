@@ -1,6 +1,8 @@
 owner: PHACDataHub
 repo: upptime
 sites:
+- name: TEST SITE
+  url: niranjan.ni
 - name: observatory.alpha.phac.gc.ca
   url: observatory.alpha.phac.gc.ca
 - name: ky.alpha.phac.gc.ca
