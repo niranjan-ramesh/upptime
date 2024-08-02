@@ -1,50 +1,50 @@
 owner: PHACDataHub
 repo: upptime
 sites:
-- name: harbor.alpha.phac.gc.ca
-  url: harbor.alpha.phac.gc.ca
-- name: ky2.beta.phac.gc.ca
-  url: ky2.beta.phac.gc.ca
-- name: leandhis2.alpha.phac.gc.ca
-  url: leandhis2.alpha.phac.gc.ca
-- name: llm.alpha.phac.gc.ca
-  url: llm.alpha.phac.gc.ca
+- name: observatory.alpha.phac.gc.ca
+  url: observatory.alpha.phac.gc.ca
+- name: ky.alpha.phac.gc.ca
+  url: ky.alpha.phac.gc.ca
+- name: backstage.alpha.phac-aspc.gc.ca
+  url: backstage.alpha.phac-aspc.gc.ca
 - name: safeinputs.alpha.phac-aspc.gc.ca
   url: safeinputs.alpha.phac-aspc.gc.ca
+- name: atip-dlp.alpha.phac.gc.ca
+  url: atip-dlp.alpha.phac.gc.ca
+- name: geocoder.alpha.phac.gc.ca
+  url: geocoder.alpha.phac.gc.ca
+- name: hopic-sdpac.data-donnes.phac-aspc.gc.ca
+  url: hopic-sdpac.data-donnes.phac-aspc.gc.ca
+- name: data-readiness-repository.data.phac.gc.ca
+  url: data-readiness-repository.data.phac.gc.ca
+- name: signals-signaux.alpha.phac-aspc.gc.ca
+  url: signals-signaux.alpha.phac-aspc.gc.ca
+- name: jitaccess.alpha.phac-aspc.gc.ca
+  url: jitaccess.alpha.phac-aspc.gc.ca
+- name: ors-sro.alpha.phac-aspc.gc.ca
+  url: ors-sro.alpha.phac-aspc.gc.ca
+- name: leandhis2.alpha.phac.gc.ca
+  url: leandhis2.alpha.phac.gc.ca
+- name: catalogue.alpha.phac-aspc.gc.ca
+  url: catalogue.alpha.phac-aspc.gc.ca
+- name: ippm-pigp.alpha.phac-aspc.gc.ca
+  url: ippm-pigp.alpha.phac-aspc.gc.ca
+- name: ky2.beta.phac.gc.ca
+  url: ky2.beta.phac.gc.ca
 - name: dhis2.beta.phac-aspc.gc.ca
   url: dhis2.beta.phac-aspc.gc.ca
+- name: harbor.alpha.phac.gc.ca
+  url: harbor.alpha.phac.gc.ca
+- name: shiny.alpha.phac-aspc.gc.ca
+  url: shiny.alpha.phac-aspc.gc.ca
+- name: llm.alpha.phac.gc.ca
+  url: llm.alpha.phac.gc.ca
+- name: entreessecurisees.alpha.phac-aspc.gc.ca
+  url: entreessecurisees.alpha.phac-aspc.gc.ca
 - name: hopic-sdpac.data.phac.gc.ca
   url: hopic-sdpac.data.phac.gc.ca
 - name: paradire.alpha.phac.gc.ca
   url: paradire.alpha.phac.gc.ca
-- name: ky.alpha.phac.gc.ca
-  url: ky.alpha.phac.gc.ca
-- name: entreessecurisees.alpha.phac-aspc.gc.ca
-  url: entreessecurisees.alpha.phac-aspc.gc.ca
-- name: jitaccess.alpha.phac-aspc.gc.ca
-  url: jitaccess.alpha.phac-aspc.gc.ca
-- name: backstage.alpha.phac-aspc.gc.ca
-  url: backstage.alpha.phac-aspc.gc.ca
-- name: shiny.alpha.phac-aspc.gc.ca
-  url: shiny.alpha.phac-aspc.gc.ca
-- name: data-readiness-repository.data.phac.gc.ca
-  url: data-readiness-repository.data.phac.gc.ca
-- name: geocoder.alpha.phac.gc.ca
-  url: geocoder.alpha.phac.gc.ca
-- name: observatory.alpha.phac.gc.ca
-  url: observatory.alpha.phac.gc.ca
-- name: atip-dlp.alpha.phac.gc.ca
-  url: atip-dlp.alpha.phac.gc.ca
-- name: ors-sro.alpha.phac-aspc.gc.ca
-  url: ors-sro.alpha.phac-aspc.gc.ca
-- name: hopic-sdpac.data-donnes.phac-aspc.gc.ca
-  url: hopic-sdpac.data-donnes.phac-aspc.gc.ca
-- name: ippm-pigp.alpha.phac-aspc.gc.ca
-  url: ippm-pigp.alpha.phac-aspc.gc.ca
-- name: catalogue.alpha.phac-aspc.gc.ca
-  url: catalogue.alpha.phac-aspc.gc.ca
-- name: signals-signaux.alpha.phac-aspc.gc.ca
-  url: signals-signaux.alpha.phac-aspc.gc.ca
 status-website:
   baseUrl: https://upptime-kfdi6jzt6a-nn.a.run.app
   introMessage: "This is a sample status page which uses **real-time** data from our\
