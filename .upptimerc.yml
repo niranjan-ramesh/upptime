@@ -1,36 +1,72 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
+owner: niranjan-ramesh
+repo: upptime
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
-
+  - name: ippm-pigp.alpha.phac-aspc.gc.ca
+    url: ippm-pigp.alpha.phac-aspc.gc.ca
+  - name: paradire.alpha.phac.gc.ca
+    url: paradire.alpha.phac.gc.ca
+  - name: geocoder.alpha.phac.gc.ca
+    url: geocoder.alpha.phac.gc.ca
+  - name: entreessecurisees.alpha.phac-aspc.gc.ca
+    url: entreessecurisees.alpha.phac-aspc.gc.ca
+  - name: shiny.alpha.phac-aspc.gc.ca
+    url: shiny.alpha.phac-aspc.gc.ca
+  - name: safeinputs.alpha.phac-aspc.gc.ca
+    url: safeinputs.alpha.phac-aspc.gc.ca
+  - name: signals-signaux.alpha.phac-aspc.gc.ca
+    url: signals-signaux.alpha.phac-aspc.gc.ca
+  - name: dhis2.beta.phac-aspc.gc.ca
+    url: dhis2.beta.phac-aspc.gc.ca
+  - name: hopic-sdpac.data-donnes.phac-aspc.gc.ca
+    url: hopic-sdpac.data-donnes.phac-aspc.gc.ca
+  - name: catalogue.alpha.phac-aspc.gc.ca
+    url: catalogue.alpha.phac-aspc.gc.ca
+  - name: harbor.alpha.phac.gc.ca
+    url: harbor.alpha.phac.gc.ca
+  - name: ky2.beta.phac.gc.ca
+    url: ky2.beta.phac.gc.ca
+  - name: leandhis2.alpha.phac.gc.ca
+    url: leandhis2.alpha.phac.gc.ca
+  - name: ors-sro.alpha.phac-aspc.gc.ca
+    url: ors-sro.alpha.phac-aspc.gc.ca
+  - name: atip-dlp.alpha.phac.gc.ca
+    url: atip-dlp.alpha.phac.gc.ca
+  - name: backstage.alpha.phac-aspc.gc.ca
+    url: backstage.alpha.phac-aspc.gc.ca
+  - name: jitaccess.alpha.phac-aspc.gc.ca
+    url: jitaccess.alpha.phac-aspc.gc.ca
+  - name: llm.alpha.phac.gc.ca
+    url: llm.alpha.phac.gc.ca
+  - name: hopic-sdpac.data.phac.gc.ca
+    url: hopic-sdpac.data.phac.gc.ca
+  - name: data-readiness-repository.data.phac.gc.ca
+    url: data-readiness-repository.data.phac.gc.ca
+  - name: observatory.alpha.phac.gc.ca
+    url: observatory.alpha.phac.gc.ca
+  - name: ky.alpha.phac.gc.ca
+    url: ky.alpha.phac.gc.ca
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /upptime
+  introMessage:
+    "This is a sample status page which uses **real-time** data from our\
+    \ [GitHub repository](https://github.com/upptime/upptime). No server required\
+    \ \u2014 just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)"
+  introTitle:
+    "**Upptime** is the open-source uptime monitor and status page, powered
+    entirely by GitHub."
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - href: /
+      title: Status
+    - href: https://github.com/$OWNER/$REPO
+      title: GitHub
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 0 29 2 1"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
