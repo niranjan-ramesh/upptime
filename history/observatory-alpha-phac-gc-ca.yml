@@ -1,7 +1,7 @@
 url: observatory.alpha.phac.gc.ca
-status: down
-code: 503
-responseTime: 115
-lastUpdated: 2024-08-14T17:28:25.140Z
+status: up
+code: 200
+responseTime: 121
+lastUpdated: 2024-08-14T18:15:44.729Z
 startTime: 2024-08-14T17:28:24.972Z
 generator: Upptime <https://github.com/upptime/upptime>
