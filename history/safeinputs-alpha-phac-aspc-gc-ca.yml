@@ -1,7 +1,7 @@
 url: safeinputs.alpha.phac-aspc.gc.ca
-status: up
-code: 200
-responseTime: 290
-lastUpdated: 2024-08-15T23:16:52.917Z
+status: down
+code: 503
+responseTime: 322
+lastUpdated: 2024-08-16T10:56:33.437Z
 startTime: 2024-08-14T17:27:06.600Z
 generator: Upptime <https://github.com/upptime/upptime>
