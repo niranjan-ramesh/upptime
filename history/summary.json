@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-10": 64,
+      "2024-09-10": 851,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
@@ -99,7 +99,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-10": 64,
+      "2024-09-10": 851,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
@@ -210,10 +210,10 @@
     "url": "hopic-sdpac.data-donnes.phac-aspc.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hopic-sdpac-data-donnes-phac-aspc-gc-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 731,
@@ -221,7 +221,9 @@
     "timeWeek": 759,
     "timeMonth": 731,
     "timeYear": 731,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-10": 1
+    }
   },
   {
     "name": "catalogue.alpha.phac-aspc.gc.ca",
@@ -240,7 +242,7 @@
     "timeMonth": 337,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2024-09-10": 64,
+      "2024-09-10": 851,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
@@ -287,7 +289,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-10": 64,
+      "2024-09-10": 851,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
@@ -334,7 +336,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-10": 64,
+      "2024-09-10": 851,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
@@ -381,7 +383,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-10": 64,
+      "2024-09-10": 851,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
@@ -482,7 +484,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-10": 64,
+      "2024-09-10": 851,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
