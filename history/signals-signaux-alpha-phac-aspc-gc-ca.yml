@@ -1,7 +1,7 @@
 url: signals-signaux.alpha.phac-aspc.gc.ca
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-17T17:21:21.370Z
+status: up
+code: 200
+responseTime: 573
+lastUpdated: 2024-09-17T19:15:13.725Z
 startTime: 2024-08-14T17:27:07.207Z
 generator: Upptime <https://github.com/upptime/upptime>
