@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-17": 54,
+      "2024-09-17": 1043,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -108,7 +108,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-17": 54,
+      "2024-09-17": 1043,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -190,10 +190,10 @@
     "url": "signals-signaux.alpha.phac-aspc.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "signals-signaux-alpha-phac-aspc-gc-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 391,
@@ -201,7 +201,9 @@
     "timeWeek": 404,
     "timeMonth": 399,
     "timeYear": 391,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-17": 2
+    }
   },
   {
     "name": "dhis2.beta.phac-aspc.gc.ca",
@@ -227,18 +229,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hopic-sdpac-data-donnes-phac-aspc-gc-ca",
     "status": "down",
-    "uptime": "80.64%",
+    "uptime": "79.01%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "7.90%",
-    "uptimeMonth": "78.81%",
-    "uptimeYear": "80.64%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "76.55%",
+    "uptimeYear": "79.01%",
     "time": 731,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 755,
     "timeYear": 731,
     "dailyMinutesDown": {
-      "2024-09-17": 54,
+      "2024-09-17": 1043,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -265,7 +267,7 @@
     "timeMonth": 340,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2024-09-17": 54,
+      "2024-09-17": 1043,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -319,7 +321,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-17": 54,
+      "2024-09-17": 1043,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -373,7 +375,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-17": 54,
+      "2024-09-17": 1043,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -427,7 +429,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-17": 54,
+      "2024-09-17": 1043,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -535,7 +537,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-17": 54,
+      "2024-09-17": 1043,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
