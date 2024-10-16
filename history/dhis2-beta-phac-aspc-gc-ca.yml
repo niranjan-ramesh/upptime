@@ -1,7 +1,7 @@
 url: dhis2.beta.phac-aspc.gc.ca
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-16T19:18:52.313Z
+status: up
+code: 200
+responseTime: 5745
+lastUpdated: 2024-10-16T20:43:19.780Z
 startTime: 2024-08-14T17:27:07.849Z
 generator: Upptime <https://github.com/upptime/upptime>
