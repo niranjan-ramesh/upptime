@@ -1,7 +1,7 @@
 url: harbor.alpha.phac.gc.ca
 status: down
-code: 503
-responseTime: 1222
-lastUpdated: 2024-10-27T23:21:15.936Z
+code: 404
+responseTime: 357
+lastUpdated: 2024-10-28T23:20:29.677Z
 startTime: 2024-08-14T17:27:12.066Z
 generator: Upptime <https://github.com/upptime/upptime>
