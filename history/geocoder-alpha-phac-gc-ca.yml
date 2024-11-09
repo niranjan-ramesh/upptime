@@ -1,7 +1,7 @@
 url: geocoder.alpha.phac.gc.ca
-status: down
-code: 500
-responseTime: 447
-lastUpdated: 2024-11-09T09:51:56.610Z
+status: up
+code: 200
+responseTime: 443
+lastUpdated: 2024-11-09T10:10:57.007Z
 startTime: 2024-08-14T17:26:33.169Z
 generator: Upptime <https://github.com/upptime/upptime>
