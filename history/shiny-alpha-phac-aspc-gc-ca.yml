@@ -1,7 +1,7 @@
 url: shiny.alpha.phac-aspc.gc.ca
-status: down
-code: 503
-responseTime: 539
-lastUpdated: 2025-01-10T09:45:52.242Z
+status: up
+code: 200
+responseTime: 353
+lastUpdated: 2025-01-10T09:57:03.855Z
 startTime: 2024-08-14T17:27:05.897Z
 generator: Upptime <https://github.com/upptime/upptime>
