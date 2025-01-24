@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-24": 288,
+      "2025-01-24": 337,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
@@ -239,7 +239,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-24": 288,
+      "2025-01-24": 337,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
@@ -471,18 +471,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dhis2-beta-phac-aspc-gc-ca",
     "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "98.87%",
+    "uptime": "98.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "98.88%",
     "time": 1244,
     "timeDay": 14264,
     "timeWeek": 5699,
     "timeMonth": 2326,
     "timeYear": 1244,
     "dailyMinutesDown": {
-      "2025-01-24": 10,
       "2025-01-17": 53,
       "2024-10-30": 1114,
       "2024-10-29": 1372,
@@ -506,7 +505,7 @@
     "timeMonth": 0,
     "timeYear": 731,
     "dailyMinutesDown": {
-      "2025-01-24": 288,
+      "2025-01-24": 337,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
@@ -662,7 +661,7 @@
     "timeMonth": 313,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2025-01-24": 288,
+      "2025-01-24": 337,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
@@ -845,7 +844,7 @@
     "timeMonth": 384,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2025-01-24": 288,
+      "2025-01-24": 337,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
@@ -1028,7 +1027,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-24": 288,
+      "2025-01-24": 337,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
@@ -1211,7 +1210,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-24": 288,
+      "2025-01-24": 337,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
@@ -1382,10 +1381,10 @@
     "url": "ors-sro.alpha.phac-aspc.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ors-sro-alpha-phac-aspc-gc-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 366,
@@ -1393,7 +1392,9 @@
     "timeWeek": 301,
     "timeMonth": 309,
     "timeYear": 366,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-24": 1
+    }
   },
   {
     "name": "atip-dlp.alpha.phac.gc.ca",
@@ -1450,7 +1451,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-24": 288,
+      "2025-01-24": 337,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
@@ -1707,7 +1708,7 @@
     "timeMonth": 0,
     "timeYear": 462,
     "dailyMinutesDown": {
-      "2025-01-24": 288,
+      "2025-01-24": 337,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
