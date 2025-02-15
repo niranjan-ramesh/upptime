@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-15": 67,
+      "2025-02-15": 202,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
@@ -261,7 +261,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-15": 67,
+      "2025-02-15": 202,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
@@ -552,7 +552,7 @@
     "timeMonth": 0,
     "timeYear": 731,
     "dailyMinutesDown": {
-      "2025-02-15": 67,
+      "2025-02-15": 202,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
@@ -730,7 +730,7 @@
     "timeMonth": 358,
     "timeYear": 340,
     "dailyMinutesDown": {
-      "2025-02-15": 67,
+      "2025-02-15": 203,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
@@ -935,7 +935,7 @@
     "timeMonth": 444,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2025-02-15": 67,
+      "2025-02-15": 203,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
@@ -1140,7 +1140,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-15": 67,
+      "2025-02-15": 203,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
@@ -1345,7 +1345,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-15": 67,
+      "2025-02-15": 203,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
@@ -1556,18 +1556,20 @@
     "url": "atip-dlp.alpha.phac.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "atip-dlp-alpha-phac-gc-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 796,
-    "timeDay": 590,
-    "timeWeek": 2503,
-    "timeMonth": 1641,
+    "timeDay": 661,
+    "timeWeek": 2282,
+    "timeMonth": 1612,
     "timeYear": 796,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-15": 1
+    }
   },
   {
     "name": "backstage.alpha.phac-aspc.gc.ca",
@@ -1606,7 +1608,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-15": 67,
+      "2025-02-15": 203,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
@@ -1874,18 +1876,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ky-alpha-phac-gc-ca",
     "status": "down",
-    "uptime": "20.00%",
+    "uptime": "19.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "20.00%",
+    "uptimeYear": "19.99%",
     "time": 462,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 462,
     "dailyMinutesDown": {
-      "2025-02-15": 67,
+      "2025-02-15": 203,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
